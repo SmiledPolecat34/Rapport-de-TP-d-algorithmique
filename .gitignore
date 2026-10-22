@@ -1,0 +1,8 @@
+# Binaires compilés
+livraisons
+livraisons.exe
+*.o
+*.obj
+
+# Réglages de l'éditeur
+.vscode/
